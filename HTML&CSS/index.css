@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+
+.blue {
+color: blue;
+background-color: aqua;
+}
+
+.red {
+color: red;
+}
+
+#head {
+font-size: 100px;
+}
+
+.blue:hover {
+    color: brown;
+    background-color: blue;
+}
